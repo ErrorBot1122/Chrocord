@@ -1,0 +1,2 @@
+# Chrocord
+A Discord Bot
